@@ -1,0 +1,5 @@
+The dataset contains all the pictures of the plants viewed by different cameras. only the RBG cameras were used in the paper.
+
+Leaf painter repo: https://github.com/charlesro/LeafpainterQT
+
+Leafpainter is the app we used to generated the pseudo-labels.
